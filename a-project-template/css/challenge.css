@@ -13,7 +13,7 @@
 #navbar {
     position:fixed;
     padding: 10px 0;
-    text-align: center;
+    width: 100%;
     
 
 }
@@ -24,7 +24,7 @@
 
 /* relatively position header image inside header element using CSS here */
 #header-image {
-    position:absolute;
+    position:relative;
 
   
 }
